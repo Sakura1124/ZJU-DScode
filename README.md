@@ -96,7 +96,7 @@ ptr lreverse(ptr head, int k)
 [C++ solution1](./03-05/ex8.cpp):根据入栈出栈序列建树，然后对树进行后序遍历
 [参考](https://github.com/Heliovic/PAT_Solutions/blob/master/1086/main.cpp)
 
-[C++ solution2](./03-05/ex8_3.cpp):根据入栈顺序得到先序序列，出栈序列得到中序序列，由先序，中序推出后序
+[C++ solution2](./03-05/ex8_2.cpp):根据入栈顺序得到先序序列，出栈序列得到中序序列，由先序，中序推出后序
 [参考](https://github.com/liuchuo/PAT/blob/master/AdvancedLevel_C%2B%2B/1086.%20Tree%20Traversals%20Again%20(25)%20.cpp)
 
 **04-树4 是否同一棵二叉搜索树**
@@ -117,9 +117,117 @@ ptr lreverse(ptr head, int k)
 
 [问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1236509430527590402)
 
-[C++ solution]()
+[C++ solution](./03-05/ex11.cpp)
 
-****
+**05-树7 堆中的路径**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1239025765568618496)
+
+[C++ solution](./03-05/ex12.cpp)
+
+**05-树8 File Transfer**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1239025765568618497)
+
+[C++ solution](./03-05/ex13.cpp)
+
+**05-树9 Huffman Codes**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1239025765568618498)
+
+[C++ solution](./03-05/ex14.cpp)
+
+**06-图1 列出连通集**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1241660123425153024)
+
+[C++ solution](./06-08/ex15.cpp)
+
+**06-图2 Saving James Bond - Easy Version**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1241660123425153025)
+
+[C++ solution](./06-08/ex16.cpp)
+
+**06-图3 六度空间**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1241660123425153026)
+
+[C++ solution](./06-08/exp17.cpp)
+
+**07-图4 哈利·波特的考试**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1244270885410840576)
+
+[C++ solution](./06-08/exp18.cpp)
+
+**07-图5 Saving James Bond - Hard Version**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1244270885410840577)
+
+[C++ solution](./06-08/exp19.cpp)
+
+**07-图6 旅游规划**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1244270885410840578)
+
+[C++ solution](./06-08/exp20.cpp)
+
+**08-图7 公路村村通**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1246650197435133952)
+
+~~[C++ solution](./06-08/exp21.cpp)~~
+
+**08-图8 How Long Does It Take**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1246650197435133953)
+
+~~[C++ solution](./06-08/exp22.cpp)~~
+
+**08-图9 关键活动**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1246650197435133954)
+
+~~[C++ solution](./06-08/exp23.cpp)~~
+
+**09-排序1 排序**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1249172110099496960)
+
+[C++ solution](./09-10/ex24.cpp)
+
+**09-排序2 Insert or Merge**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1249172110099496961)
+
+~~[C++ solution](./09-10/ex25.cpp)~~
+
+**09-排序3 Insertion or Heap Sort**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1249172110099496962)
+
+~~[C++ solution](./09-10/ex26.cpp)~~
+
+**10-排序4 统计工龄**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1251762364668882944)
+
+[C++ solution](./09-10/ex27.cpp)
+
+**10-排序5 PAT Judge**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1251762364668882945)
+
+~~[C++ solution](./09-10/ex28.cpp)~~
+
+**10-排序6 Sort with Swap(0, i)**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1251762364668882946)
+
+~~[C++ solution](./09-10/ex29.cpp)~~
+
+<!-- ****
 
 [问题描述]()
 
@@ -142,3 +250,9 @@ ptr lreverse(ptr head, int k)
 [问题描述]()
 
 [C++ solution]()
+
+****
+
+[问题描述]()
+
+[C++ solution]() -->
