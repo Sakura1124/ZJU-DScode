@@ -227,19 +227,19 @@ ptr lreverse(ptr head, int k)
 
 ~~[C++ solution](./09-10/ex29.cpp)~~
 
+**11-散列1 电话聊天狂人**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1254370586245386240)
+
+[C++ solution](./11/ex30.cpp)
+
+**11-散列2 Hashing**
+
+[问题描述](https://pintia.cn/problem-sets/1211841066264109056/problems/1254370586245386241)
+
+[C++ solution](./11/ex31.cpp)
+
 <!-- ****
-
-[问题描述]()
-
-[C++ solution]()
-
-****
-
-[问题描述]()
-
-[C++ solution]()
-
-****
 
 [问题描述]()
 
