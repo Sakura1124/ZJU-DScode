@@ -12,22 +12,7 @@ struct LNode {
     Position Last; /* 保存线性表中最后一个元素的位置 */
 };
 
-List ReadInput(); /* 裁判实现，细节不表。元素从下标1开始存储 */
-Position BinarySearch( List L, ElementType X );
 
-int main()
-{
-    List L;
-    ElementType X;
-    Position P;
-
-    L = ReadInput();
-    scanf("%d", &X);
-    P = BinarySearch( L, X );
-    printf("%d\n", P);
-
-    return 0;
-}
 Position binarysearch( List l, ElementType x, Position start, Position end)
 {
     int center = (start + end)/2;
